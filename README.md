@@ -81,22 +81,22 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 ## <span style="color:red"> Team Members: </span>
 
-- ## Manoj Kumar 
+ ## Manoj Kumar 
 [GitHUb](https://github.com/manojGum)
 
-- ## Saumitra
+ ## Saumitra
 [GitHUb](https://github.com/saumitra-vns)
 
-- ## Vaishnavi
+ ## Vaishnavi
 [GitHUb](https://github.com/Bvaishnavi123)
 
-- ## Rohit
+ ## Rohit
 [GitHUb](https://github.com/rohitchourey0809)
 
-- ## Debasree
+## Debasree
 [GitHUb](https://github.com/Debasree-3031999)
 
-- ## Kishan
+ ## Kishan
 [GitHUb](https://github.com/kishan2406)
 
 
